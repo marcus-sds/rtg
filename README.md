@@ -1,6 +1,6 @@
 # rtg
-![A rtg1](https://github.com/marcus-sds/rtg/blob/master/CropperCapture%5B67%5D.png =400x)
-![A rtg2](https://github.com/marcus-sds/rtg/blob/master/CropperCapture%5B68%5D.png =400x)
+![A rtg1](https://github.com/marcus-sds/rtg/blob/master/CropperCapture%5B67%5D.png = 400x)
+![A rtg2](https://github.com/marcus-sds/rtg/blob/master/CropperCapture%5B68%5D.png = 400x)
 ## install rtg
 prepare os with centos 6<br>
 
