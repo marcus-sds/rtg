@@ -1,4 +1,6 @@
 # rtg
+<img src="https://github.com/marcus-sds/rtg/blob/master/CropperCapture%5B67%5D.png" width="400">
+<img src="https://github.com/marcus-sds/rtg/blob/master/CropperCapture%5B68%5D.png" width="400">
 
 ## install rtg
 prepare os with centos 6<br>
